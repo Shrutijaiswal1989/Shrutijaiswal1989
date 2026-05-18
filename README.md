@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Engineer | IoT | Computer Vision | Generative AI | Robotics | Full Stack Development</h3>
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhqbWU5MnI3M3RiZzZscXFwanVneXE4YXdnOWNjZ2RhbXcwYjQzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MSVKRopegDjYONwdF/giphy.gif"  />
 </div>
 
 ###
