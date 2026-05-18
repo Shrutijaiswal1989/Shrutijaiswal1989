@@ -8,28 +8,34 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/shruti-jaiswal-ba47a3379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
-  <a href="YOUR_GITHUB_LINK" target="_blank">
+
+  <a href="https://github.com/Shrutijaiswal1989" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
 </a>
-  <a href="YOUR_LEETCODE_LINK" target="_blank">
+
+  <a href="https://leetcode.com/u/shruti192/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+</a>
+
+  <a href="https://www.codechef.com/users/jaiswalshruti4" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
 </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shruti.shruti&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrutijaiswal1989.shrutijaiswal1989&"  />
 </div>
 
 ###
 
 
 
- <h1>🧠 About Me</h1>
+<h1>🧠 About Me</h1>
 
 I’m Shruti Kumari Jaiswal, an **AI & Data Science undergraduate** at **Sri Eshwar College of Engineering**, passionate about building intelligent, scalable, and impactful AI-powered systems.
 
@@ -50,11 +56,22 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <h1 align="left"> 🌐 Connect with me:</h1>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" /></a>
-<a href="YOUR_GITHUB_LINK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" height="50" width="60" /></a>
-<a href="YOUR_HACKERRANK_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="50" width="60" /></a>
-<a href="YOUR_CODECHEF_LINK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="50" width="60" /></a>
-<a href="YOUR_LEETCODE_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" /></a>
+
+<a href="https://www.linkedin.com/in/shruti-jaiswal-ba47a3379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="60" />
+
+<a href="https://github.com/Shrutijaiswal1989" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" height="50" width="60" />
+
+<a href="https://www.hackerrank.com/profile/shrutikumarijai1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="50" width="60" />
+
+<a href="https://www.codechef.com/users/jaiswalshruti4" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="50" width="60" />
+
+<a href="https://leetcode.com/u/shruti192/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="60" />
+
 </p>
 
 
@@ -64,6 +81,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 ## 🧠 AI & Machine Learning
 
 <p align="left">
+
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
@@ -83,6 +101,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 </a>
+
 </p>
 
 - Machine Learning, Deep Learning & Computer Vision  
@@ -95,6 +114,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 ## 💻 Programming
 
 <p align="left">
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -114,6 +134,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+
 </p>
 
 - C, C++, Python, Java & JavaScript  
@@ -123,6 +144,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
+
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
@@ -142,6 +164,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </a>
+
 </p>
 
 - React.js, Node.js & MERN Stack  
@@ -153,6 +176,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 ## ☁️ Cloud & Tools
 
 <p align="left">
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
@@ -172,6 +196,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer">
 <img src="https://avatars.githubusercontent.com/u/13119873?s=200&v=4" alt="gazebo" width="40" height="40"/>
 </a>
+
 </p>
 
 - AWS, Git & GitHub  
@@ -183,6 +208,7 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 ## 🗄️ Databases & Visualization
 
 <p align="left">
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -202,36 +228,34 @@ I work at the intersection of **Artificial Intelligence, IoT, Robotics, Computer
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </a>
+
 </p>
 
 - MongoDB, MySQL & Cloud Databases  
 - Power BI, Tableau & Jupyter Notebook  
 - Data Analytics & Visualization Systems  
 
+---
 
 <h1> 📊 GitHub Stats</h1>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="280" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=Shrutijaiswal1989&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="280" alt="streak graph" />
 
 </div>
 
 <br>
-
-
 
 ---
 
 <h1>🐍 Contribution Snake</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shrutijaiswal1989/Shrutijaiswal1989/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-
-<h1 >🧑‍💻 Achievements & Recognition</h1>
+<h1>🧑‍💻 Achievements & Recognition</h1>
 
 🏆 Winner — National Science Day organized by Radio Astronomy Centre (RAC)  
 
